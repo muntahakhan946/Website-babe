@@ -4290,11 +4290,11 @@ form textarea:required:valid {
      -moz-box-pack: left;
       -ms-flex-pack: left;
           justify-content: left;
-  gap: 1rem;
+  gap: 0rem;
 }
 @media only screen and (min-width: 768px) {
   .mxd-logo {
-    gap: 1.4rem;
+    gap: 0rem;
   }
 }
 
