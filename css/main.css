@@ -4300,12 +4300,13 @@ form textarea:required:valid {
 
 .mxd-logo__image {
   display: block;
-  width: 4.6rem;
-  height: auto;
+  width: auto;
+  height: 130px;
 }
 @media only screen and (min-width: 768px) {
   .mxd-logo__image {
-    width: 5.6rem;
+    width: auto;
+    height: 130px;
   }
 }
 
