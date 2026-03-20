@@ -4311,13 +4311,13 @@ form textarea:required:valid {
 }
 
 .mxd-logo__text {
-  font: normal var(--fw-medium) 1.9rem/1.1 var(--_font-accent);
+  font: normal var(--fw-medium) 2.8rem/1.1 var(--_font-accent);
   letter-spacing: normal;
   color: var(--t-bright);
 }
 @media only screen and (min-width: 768px) {
   .mxd-logo__text {
-    font-size: 2.4rem;
+    font-size: 3.4rem;
   }
 }
 
